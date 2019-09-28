@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>About.qml</file>
+        <file>assets/AboutIcon.png</file>
+        <file>assets/ProfileIcon.png</file>
+        <file>../../../py/QTPython/assets/back.png</file>
+        <file>assets/back.png</file>
+        <file>assets/closeIcon.png</file>
+        <file>assets/Daftar HargaIcon.png</file>
+        <file>assets/HomeIcon.png</file>
+        <file>assets/plusIcon.png</file>
+        <file>assets/searchIcon.png</file>
+        <file>assets/sellIcon.png</file>
+        <file>assets/StokIcon.png</file>
+        <file>assets/ListIcon.png</file>
+        <file>assets/default.png</file>
+    </qresource>
+</RCC>
